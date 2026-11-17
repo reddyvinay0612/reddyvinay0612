@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi there, I'm Vinayprakash<br><br>🔭 I'm currently working on an AI-based Smart Energy and Carbon Emission Optimization System<br><br>👯 I'm looking to collaborate on AI/ML, Flask, and Full Stack Web projects<br><br>🤝 I'm looking for help with System Design and Deploying AI Models<br><br>🌱 I'm currently learning Advanced DSA, Deep Learning, and Full Stack Development<br><br>💬 Ask me about Python, Java, Flask, TensorFlow/Keras, OpenCV, and Hackathons<br><br>⚡ Fun fact: I love building AI-powered projects from model to web app, and I've taken part in 3 hackathons.
+👋 Hi there, I'm Vinayprakash<br><br>🔭 I'm currently working on an AI-based Smart Energy and Carbon Emission Optimization System<br><br>👯 I'm looking to collaborate on AI/ML, Flask, and Full Stack Web projects<br><br>🤝 I'm looking for help with System Design and Deploying AI Models<br><br>🌱 I'm currently learning Advanced DSA, Deep Learning, and Full Stack Development<br><br>💬 Ask me about Python, Java, Flask, TensorFlow/Keras, OpenCV, and Hackathons<br><br>⚡ Fun fact: I love building AI-powered projects from model to web app, and I've taken part in 3 hackathons.
 
 
 ## 🌐 Socials:
